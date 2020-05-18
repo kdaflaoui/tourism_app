@@ -17,5 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 ------ assets illustrations ---------
 
-![Screenshot_1589774444](https://user-images.githubusercontent.com/26189475/82175959-5d433c00-98a3-11ea-932a-b0ecea473a84.png)
-
